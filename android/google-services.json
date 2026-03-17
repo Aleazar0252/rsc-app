@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "298335903283",
+    "firebase_url": "https://fire-4881b-default-rtdb.firebaseio.com",
+    "project_id": "fire-4881b",
+    "storage_bucket": "fire-4881b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298335903283:android:4aed266d9e902885b74d46",
+        "android_client_info": {
+          "package_name": "fire.rsc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnKD83OhS_3gVPz_xFgvU8K6xJ9gQaOHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
